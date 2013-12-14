@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>medoc.jpg</file>
+        <file>ajouter.jpg</file>
+        <file>modifier.png</file>
+        <file>pra.png</file>
+        <file>abandonner.jpg</file>
+        <file>supprimer.jpg</file>
+        <file>vis.jpg</file>
+    </qresource>
+</RCC>
